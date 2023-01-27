@@ -7,19 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E8100F9A2982C25D0094C173 /* SarkiCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8100F992982C25D0094C173 /* SarkiCollectionViewCell.swift */; };
+		E8139ADA29827DFD00C16783 /* Amaranth-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8139AD529827DFD00C16783 /* Amaranth-Italic.ttf */; };
+		E8139ADB29827DFD00C16783 /* Amaranth-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8139AD629827DFD00C16783 /* Amaranth-Bold.ttf */; };
+		E8139ADC29827DFD00C16783 /* Amaranth-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8139AD729827DFD00C16783 /* Amaranth-Regular.ttf */; };
+		E8139ADD29827DFD00C16783 /* Amaranth-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8139AD829827DFD00C16783 /* Amaranth-BoldItalic.ttf */; };
+		E8139ADE29827DFD00C16783 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = E8139AD929827DFD00C16783 /* OFL.txt */; };
+		E8139AE02982818700C16783 /* Sarki.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8139ADF2982818700C16783 /* Sarki.swift */; };
+		E867CF2F2983CB66004DB322 /* Sarki2CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E867CF2E2983CB66004DB322 /* Sarki2CollectionViewCell.swift */; };
+		E867CF312983CF85004DB322 /* Sarki2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E867CF302983CF85004DB322 /* Sarki2.swift */; };
+		E867CF332983F69A004DB322 /* Sarki3CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E867CF322983F69A004DB322 /* Sarki3CollectionViewCell.swift */; };
 		E8F11B1E29813102005FDBC0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F11B1D29813102005FDBC0 /* AppDelegate.swift */; };
 		E8F11B2029813102005FDBC0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F11B1F29813102005FDBC0 /* SceneDelegate.swift */; };
-		E8F11B2229813102005FDBC0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F11B2129813102005FDBC0 /* ViewController.swift */; };
+		E8F11B2229813102005FDBC0 /* AnaSayfa.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8F11B2129813102005FDBC0 /* AnaSayfa.swift */; };
 		E8F11B2529813102005FDBC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8F11B2329813102005FDBC0 /* Main.storyboard */; };
 		E8F11B2729813103005FDBC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8F11B2629813103005FDBC0 /* Assets.xcassets */; };
 		E8F11B2A29813103005FDBC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E8F11B2829813103005FDBC0 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E8100F992982C25D0094C173 /* SarkiCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SarkiCollectionViewCell.swift; sourceTree = "<group>"; };
+		E8139AD529827DFD00C16783 /* Amaranth-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amaranth-Italic.ttf"; sourceTree = "<group>"; };
+		E8139AD629827DFD00C16783 /* Amaranth-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amaranth-Bold.ttf"; sourceTree = "<group>"; };
+		E8139AD729827DFD00C16783 /* Amaranth-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amaranth-Regular.ttf"; sourceTree = "<group>"; };
+		E8139AD829827DFD00C16783 /* Amaranth-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amaranth-BoldItalic.ttf"; sourceTree = "<group>"; };
+		E8139AD929827DFD00C16783 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		E8139ADF2982818700C16783 /* Sarki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sarki.swift; sourceTree = "<group>"; };
+		E867CF2E2983CB66004DB322 /* Sarki2CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sarki2CollectionViewCell.swift; sourceTree = "<group>"; };
+		E867CF302983CF85004DB322 /* Sarki2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sarki2.swift; sourceTree = "<group>"; };
+		E867CF322983F69A004DB322 /* Sarki3CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sarki3CollectionViewCell.swift; sourceTree = "<group>"; };
 		E8F11B1A29813102005FDBC0 /* iOSBootcampOdev6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSBootcampOdev6.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8F11B1D29813102005FDBC0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E8F11B1F29813102005FDBC0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		E8F11B2129813102005FDBC0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E8F11B2129813102005FDBC0 /* AnaSayfa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnaSayfa.swift; sourceTree = "<group>"; };
 		E8F11B2429813102005FDBC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E8F11B2629813103005FDBC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E8F11B2929813103005FDBC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -37,6 +57,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E8139AD429827DDE00C16783 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				E8139AD629827DFD00C16783 /* Amaranth-Bold.ttf */,
+				E8139AD829827DFD00C16783 /* Amaranth-BoldItalic.ttf */,
+				E8139AD529827DFD00C16783 /* Amaranth-Italic.ttf */,
+				E8139AD729827DFD00C16783 /* Amaranth-Regular.ttf */,
+				E8139AD929827DFD00C16783 /* OFL.txt */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
 		E8F11B1129813101005FDBC0 = {
 			isa = PBXGroup;
 			children = (
@@ -56,9 +88,15 @@
 		E8F11B1C29813102005FDBC0 /* iOSBootcampOdev6 */ = {
 			isa = PBXGroup;
 			children = (
+				E8139AD429827DDE00C16783 /* fonts */,
 				E8F11B1D29813102005FDBC0 /* AppDelegate.swift */,
 				E8F11B1F29813102005FDBC0 /* SceneDelegate.swift */,
-				E8F11B2129813102005FDBC0 /* ViewController.swift */,
+				E8F11B2129813102005FDBC0 /* AnaSayfa.swift */,
+				E8139ADF2982818700C16783 /* Sarki.swift */,
+				E867CF302983CF85004DB322 /* Sarki2.swift */,
+				E867CF2E2983CB66004DB322 /* Sarki2CollectionViewCell.swift */,
+				E867CF322983F69A004DB322 /* Sarki3CollectionViewCell.swift */,
+				E8100F992982C25D0094C173 /* SarkiCollectionViewCell.swift */,
 				E8F11B2329813102005FDBC0 /* Main.storyboard */,
 				E8F11B2629813103005FDBC0 /* Assets.xcassets */,
 				E8F11B2829813103005FDBC0 /* LaunchScreen.storyboard */,
@@ -126,7 +164,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				E8F11B2A29813103005FDBC0 /* LaunchScreen.storyboard in Resources */,
+				E8139ADC29827DFD00C16783 /* Amaranth-Regular.ttf in Resources */,
 				E8F11B2729813103005FDBC0 /* Assets.xcassets in Resources */,
+				E8139ADA29827DFD00C16783 /* Amaranth-Italic.ttf in Resources */,
+				E8139ADD29827DFD00C16783 /* Amaranth-BoldItalic.ttf in Resources */,
+				E8139ADB29827DFD00C16783 /* Amaranth-Bold.ttf in Resources */,
+				E8139ADE29827DFD00C16783 /* OFL.txt in Resources */,
 				E8F11B2529813102005FDBC0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,9 +181,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E8F11B2229813102005FDBC0 /* ViewController.swift in Sources */,
+				E867CF2F2983CB66004DB322 /* Sarki2CollectionViewCell.swift in Sources */,
+				E8139AE02982818700C16783 /* Sarki.swift in Sources */,
+				E8F11B2229813102005FDBC0 /* AnaSayfa.swift in Sources */,
+				E867CF312983CF85004DB322 /* Sarki2.swift in Sources */,
 				E8F11B1E29813102005FDBC0 /* AppDelegate.swift in Sources */,
+				E867CF332983F69A004DB322 /* Sarki3CollectionViewCell.swift in Sources */,
 				E8F11B2029813102005FDBC0 /* SceneDelegate.swift in Sources */,
+				E8100F9A2982C25D0094C173 /* SarkiCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
